@@ -1,6 +1,6 @@
 crenaz.github.io
 ================
 
-Just to experiment with GitHub Pages. 
+Just to experiment with GitHub Pages. I'm using Bulma CSS library, for some reason.
 
-*07/31/2022*
+*10/23/2022*
